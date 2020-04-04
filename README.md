@@ -14,9 +14,8 @@
 
 # o Keeping track of inventory
 
-# o Ensuring that each employee is responsible to return the tools that are checked out
+#  Ensuring that each employee is responsible to return the tools that are checked out
 
-# o Preventing the loss of equipment
-
+#  Preventing the loss of equipment
 
 # reduce cost of stolen equipment
