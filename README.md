@@ -18,4 +18,4 @@
 
 # o Preventing the loss of equipment
 
-# o Reducing the cost of stolen equipment
+# reduce the cost of stolen equipment
