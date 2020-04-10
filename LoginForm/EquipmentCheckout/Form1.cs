@@ -34,7 +34,7 @@ namespace EquipmentCheckout
             con.Close();
             if (dt.Rows.Count > 0)
             {
-                MessageBox.Show("Successfully loged in");
+                MessageBox.Show("Successfully logged in");
                 
             }
             else
