@@ -18,7 +18,7 @@ CREATE TABLE dbo.Warehouse(
     FK_toolID INT FOREIGN KEY REFERENCES dbo.Tool(toolID)
 )
 
---insert into tables
+--insert into tables --
 INSERT Employee VALUES('Alejandro', 'Biancucci');
 INSERT Employee VALUES('Grace', 'Burham');
 INSERT Employee VALUES('Kyle', 'Bentz');
@@ -30,7 +30,7 @@ INSERT INTO dbo.Tool VALUES ('Power Drill', 10)
 INSERT INTO dbo.Tool VALUES ('Flashlight', 8)
 
 
---query the tables
+--query the tables --
 SELECT * FROM Employee
 
 SELECT * FROM Tool
