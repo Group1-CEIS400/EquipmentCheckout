@@ -1,0 +1,10 @@
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\bin\Debug\EquipmentCheckout.exe.config
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\bin\Debug\EquipmentCheckout.exe
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\bin\Debug\EquipmentCheckout.pdb
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.csprojAssemblyReference.cache
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.loginForm.resources
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.Properties.Resources.resources
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.csproj.GenerateResource.cache
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.csproj.CoreCompileInputs.cache
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.exe
+C:\Users\pheon\source\repos\LoginForm\EquipmentCheckout\obj\Debug\EquipmentCheckout.pdb
