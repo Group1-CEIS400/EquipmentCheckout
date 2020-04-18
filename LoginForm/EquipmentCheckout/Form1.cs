@@ -21,8 +21,8 @@ namespace EquipmentCheckout
         private void loginButton_Click(object sender, EventArgs e)
         {
             //Connection String   
-            SqlConnection con = new SqlConnection(@"Data Source=STL-4110;Initial Catalog=Practice;Integrated Security=True");
-            SqlCommand cmd = new SqlCommand("select * from Userlogins where UserName=@UserName and Password =@Password", con);
+            SqlConnection con = new SqlConnection(@"Data Source=STL-4110;Initial Catalog=EquipmentCheckout;Integrated Security=True");
+            SqlCommand cmd = new SqlCommand("select * from UserLogins where userName=@UserName and pass =@Password", con);
             cmd.Parameters.AddWithValue("@UserName", usernameTextbox.Text);
             cmd.Parameters.AddWithValue("@Password", passwordTextbox.Text);
             SqlDataAdapter sda = new SqlDataAdapter(cmd);
