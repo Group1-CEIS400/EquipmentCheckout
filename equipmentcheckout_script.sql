@@ -39,6 +39,10 @@ CREATE TABLE dbo.Trasac(
     FK_empID INT FOREIGN KEY REFERENCES Employee(empID)
 )
 
+CREATE TABLE dbo.UserLogins
+    userName CHAR(30)
+   ,pass VARCHAR(30)
+
 
 =======
 >>>>>>> 147344eee9504d8b93fd9fab78cbaf4fac143724
@@ -52,6 +56,8 @@ INSERT Employee VALUES('Zain', 'Azmi');
 INSERT INTO dbo.Tool VALUES ('screw driver', 5)
 INSERT INTO dbo.Tool VALUES ('Power Drill', 10)
 INSERT INTO dbo.Tool VALUES ('Flashlight', 8)
+
+INSERT INTO dbo.UserLogins VALUES ('test', 'test')
 
 
 --query the tables --
